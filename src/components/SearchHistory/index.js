@@ -27,7 +27,7 @@ class SearchHistory extends Component {
         <div className="nav-section">
           <img
             src="https://assets.ccbp.in/frontend/react-js/history-website-logo-img.png"
-            alt="app-logo"
+            alt="app logo"
             className="logo-image"
           />
           <div className="input-container">
